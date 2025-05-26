@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://pin.it/5dxw6rqYi)
+![](img1.jpeg)
 
 <!--
 **jtijero/jtijero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
