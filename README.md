@@ -1,7 +1,8 @@
 <!--## Hi there 👋-->
 ![](jpeg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=00C8FF&vCenter=true&center=true&lines=Hola,+que+tal!+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C8FF&lines=Hola,+que+tal!+👋)](https://git.io/typing-svg)
+
 
 <!--
 **jtijero/jtijero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
