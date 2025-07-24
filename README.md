@@ -1,7 +1,12 @@
 <!--## Hi there 👋-->
-
+<!--
 ![](jpeg)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hola,+que+tal!+👋)](https://git.io/typing-svg)
+-->
+<p align="center" style="background: url('https://wallpapercave.com/wp/wp1917065.jpg'); padding: 20px; border-radius: 10px;">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=F70C0C&center=true&vCenter=true&width=500&lines=Hola,+que+tal!+👋" alt="Typing SVG" />
+</p>
+
 <!--
 **jtijero/jtijero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
