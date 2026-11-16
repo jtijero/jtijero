@@ -1,5 +1,5 @@
 <!--## Hi there 👋-->
-![](jpeg)
+![](./img.jpeg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Space+Mono&weight=600&size=24&duration=3000&pause=1000&color=00C8FF&lines=Hola,+que+tal!+👋)](https://git.io/typing-svg)
 
